@@ -6,8 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCG94JP_5oLD94zPfyHn-7JQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucg94jp_5old94zpfyhn-7jq" height="30" width="40" /></a>
-<a href="https://discord.gg/dellix#8335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dellix#8335" height="30" width="40" /></a>
+[<img src="https://img.shields.io/badge/dellix%238335-%237289DA.svg?&logo=discord&logoColor=red" />](https://discord.com/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
