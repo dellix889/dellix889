@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **McEvent.pl**
 
-- 📫 How to reach me **dc: dellix#8335**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/dellix%238335-%237289DA.svg?&logo=discord&logoColor=red">
