@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/dellix%238335-%237289DA.svg?&logo=discord&logoColor=red">
 </p>
